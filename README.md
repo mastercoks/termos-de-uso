@@ -52,7 +52,7 @@ O **idvogados** possui como premissa máxima criar uma comunidade ativa, colabor
 Assim, o **idvogados** conta com diversas frente de atuação, tais como, porém jamais limitadas à: programação, comunicação, design, jurídico e pesquisa.
 
 ### B. Noções gerais (nortes que perseguimos)
-<img src='https://github.com/idvogados/termos-de-uso/blob/master/01-idvogados.png' />
+<img src="https://raw.githubusercontent.com/idvogados/termos-de-uso/master/01-idvogados.png" alt="noções gerais"> 
 
 ----
 

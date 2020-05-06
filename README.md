@@ -58,7 +58,7 @@ Assim, o **idvogados** conta com diversas frente de atuação, tais como, porém
 
 ## 3. O que esperamos dos Colaboradores?
 
-Nosso código de conduta está hospedado em nossa página pública. Acesso esse [link](https://idvogados.github.io/codigo-de-conduta/) para vizualiza-lo.
+Nosso código de conduta está hospedado em nossa página pública. Acesso esse [link](https://www.idvogados.org/codigo-de-conduta/) para vizualiza-lo.
 
 
 
